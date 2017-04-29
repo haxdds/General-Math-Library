@@ -1,13 +1,13 @@
 # General-Math-Library
 
-#Linear Algebra
+# Linear Algebra
 - Matrices and Vectors with their operations.
 
-#Polynomials and Fractions
+# Polynomials and Fractions
 
-#Calculus
-Derivatives and Integrals of polynomials.
+# Calculus
+-Derivatives and Integrals of polynomials.
 
-#Number Theory
+# Number Theory
 
-#General Math and Array Utils
+# General Math and Array Utils
