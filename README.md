@@ -6,7 +6,7 @@
 #Polynomials and Fractions
 
 #Calculus
--Derivatives and Integrals of polynomials.
+- Derivatives and Integrals of polynomials.
 
 #Number Theory
 
