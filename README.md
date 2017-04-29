@@ -1,7 +1,7 @@
 # General-Math-Library
 
 #Linear Algebra
-Matrices and Vectors with their operations.
+- Matrices and Vectors with their operations.
 
 #Polynomials and Fractions
 
